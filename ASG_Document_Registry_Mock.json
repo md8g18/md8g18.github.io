@@ -1,0 +1,1076 @@
+[
+  {
+    "standard_name": "S100 - IHO Universal Hydrographic Data Model 5.2\n\u2022Data Model\n\u2022S-100 based Product Specifications\n\u2022Xml schemas",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "S100 - IHO Universal Hydrographic Data Model 6.0\n\u2022Data Model\n\u2022S-100 based Product Specifications\n\u2022Xml schemas",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG Geospatial Information \nFramework (DGIF) 2.0\n\u2022DGIWG-200 - DGIF Overview\n\u2022DGIWG-205 \u2013 Defence Geospatial Information Model (DGIM) \n\u2022DGIWG-207 \u2013 Defence Geospatial Real World Object Index (DGRWI)\n\u2022DGIWG-206 \u2013 Defence Geospatial Feature and Concept Dictionary (DGFCD)  \n\u2022DGIWG-208 - GML Encoding \n\u2022DGIWG-101 - Data Product Specification (DPS)\n\u2022SDs \u2013 Normative Content + Mapping Tables",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG Geospatial Information \nFramework (DGIF) 3.0\n\u2022DGIWG-200 - DGIF Overview\n\u2022DGIWG-205 \u2013 Defence Geospatial Information Model (DGIM) \n\u2022DGIWG-207 \u2013 Defence Geospatial Real World Object Index (DGRWI)\n\u2022DGIWG-206 \u2013 Defence Geospatial Feature and Concept Dictionary (DGFCD)  \n\u2022DGIWG-208 - GML Encoding \n\u2022DGIWG-101 - Data Product Specification (DPS)\n\u2022SDs \u2013 Normative Content + Mapping Tables ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-116 Elevation Surface Model (ESM)\n\u2022DGIWG-116-1 UML Model\n\u2022DGIWG 116-2 GML Application Schema\n\u2022DGIWG-116-3 Encoding rules; Core, GeoTIFF, GMLJP2, NSIF/NITF\n\u2022DGIWG-101 - Data Product Specification (DPS)",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 2592 - AGeoP-11 NATO Geospatial Information Framework [NGIF 2.0]",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 2592 - AGeoP-11 NATO Geospatial Information Framework [NGIF 3.0]",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "MOD Geospatial Metadata Profile\n(MGMP) (DefStan 00-103) 2.0",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "MOD Geospatial Metadata Profile\n(MGMP) (DefStan 00-103) 2.1",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG Metadata Foundation (DMF) 2.0",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG Metadata Foundation (DMF) 2.1",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "NATO Geospatial Metadata Profile (NGMP) AGeop-08 Ed. B v1.0",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "NSG Metadata Framework (NMF)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "UKIMAG (UK Intelligence Messaging Agreement) ",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 2586 NATO Geospatial Metadata Profile (NGMP)\n\u2022\tAGeop-08 Ed. B v1.0",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "S-100 Universal Hydrographic \n\u2022\tData Model",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Aeronautical Information eXchange Model (AIXM) 5.1\n\u2022\tData Model",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Aeronautical Information eXchange Model (AIXM)  5.1.1\n\u2022\tData Model",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Meteorological Information Exchange Model (IWXXM) \n\u2022\tData Model",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG Geospatial Information \nFramework (DGIF) \n\u2022\tDGIWG-205 SDs \u2013 Defence Geospatial Information Model (DGIM) \u2013 Normative Content\n\u2022\t(inc. Geospatial Feature and Concept Dictionary content)",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "UKHO Feature Data Model (FDM) ",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Defence Feature and Data Dictionary (DFDD)\n\u2022\tReference Only",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "MGCP Technical Reference Documentation 4 (TRD4) Feature Catalogue",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 6503 \u2013 AGeoP-14 Defence Maritime Geospatial Exchange Model Embracing IHO S-100 & NGIF Developments\n\u2022\tEndorsed Standard: AGeoP-14",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 2592 - NATO Geospatial Information Framework [NGIF 3.0] \n\u2022\tEndorsed Standard: AGeoP-11",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "GSGS 5997 MOD Developers \nGeodetic Toolkit ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Geodetic Datums, Projections, Grids and Grid References AGeoP-21 Ed. A",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Use of Geomagnetic Models  AGeoP-24",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "UK Defence Geospatial Policy Note: Web Services & Projections \u2013 14 Nov 23",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "NGA STND 0037 2.0.0 Grids - UNIVERSAL GRIDS AND GRID REFERENCE SYSTEMS, 28 FEBRUARY 2014",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 2211 Geodetic Datums, Projections, Grids and Grid References",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 7172, Use of Geomagnetic Models  \n\u2022\tAGeoP-24",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-108 GeoTIFF profile for Georeferenced imagery\n\u2022\tImplementation Profile",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-104 DGIWG Profile of JPEG 2000 for Georeferenced Imagery",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG 104(2) Ed. 2.1.3 JPEG2000 for Georeferenced and Referenceable Imagery",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "PDF (.pdf) ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "GeoPDF (.pdf) ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "ISO/IEC BIIF Profile JBP-201.2 STANAG 4545 NATO Secondary Imagery format (.nsif) (.nitf)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Gridded Binary (GRIB) - World Meteorological Organization",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Gridded Binary (GRIB) - World Meteorological Organization",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Binary Universal Form for the Representation (BUFR)       ",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Hierarchical Data Format (HDF-5) ",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Bathymetry Attributed Grid (BAG)  \n\u2022\tOpen Navigation Surface Working Group",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-126 DGIWG Profile of OGC GeoPackage (GPKG) 1.3.1",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-126 DGIWG Profile of OGC GeoPackage (GPKG) 1.4.0",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Hydrographic Chart Raster Format (HCRF)  ",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Network Common Data Format (NetCDF) \u2013 \n\u2022\tClassic ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Network Common Data Format \n(NetCDF)\n\u2022\t64-bit Offset format",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "SQLite",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "S-57 Data Format \n\u2022\t(digital hydrographic data)",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "COLLADA (2008) (COLLAborative Design Activity). \n\u2022\tInterchange file format for interactive 3D applications.",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "OGC 07-036 Geography Markup Language (GML) ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "ARINC 424 Navigation System Data Base Standard",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "ARINC 424 Navigation System Data Base Standard",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "ARINC 424 Navigation System Data Base Standard",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Digital Aeronautical Flight Information File (DAFIF)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Digital Aeronautical Flight Information File (DAFIF)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "OGC 12-007r2 Keyhole Markup Language (KML/KMZ)",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Esri file geodatabase format",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Esri ArcReader \u2013 Multifile \n.pmf .mxp .jpw .aga .ama .asa ",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Skyline TerraExplorer (.fly) ",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "IETF RFC 7946 GeoJSON",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "OGC GeoJSON-EO",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Generic Sensor Format (GSF)",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "TINs (ESRI ArcScene) (.tin) ",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "RFC 4180 .csv (Comma Separate Values)",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "AGeoP-5 ARC Standard Raster Product (ASRP)  ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 7098 / MIL-C-89038 Compressed ARC Digitised Graphic (CADRG)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "MIL-PRF-32283, Enhanced Compressed Raster Graphic (ECRG)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "MIL-PRF-89020B Digital Terrain Elevation Data (DTED) Exchange Format",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "05-077r4 OpenGIS Symbology Encoding (SE) Implementation Specification",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Geographic Tagged Image File Format (GeoTIFF) Revision specification",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "ISO/IEC 15444 JPEG 2000  ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "ISO/IEC 10918 JPEG",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "OGC GeoPackage",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "OGC GeoPackage",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 6563 / AGeoP-29 \u2013 Defence Profile of the OGC GeoPackage Encoding Standard \n\u2022\tDGIWG-126",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 3809 Digital Terrain Elevation Data (DTED) Exchange Format\n\u2022\tMIL-PRF-89020B",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 4545 NATO Secondary Imagery format (.nsif) (.nitf)\n\u2022\tISO/IEC BIIF Profile JBP-201.2",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 4387 ASRP  \n\u2022\tAGeoP-5 ASRP",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Aeronautical Information eXchange Model (AIXM) \u2013 Specification \n\u2022\tFormat: XML/GML",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Aeronautical Information eXchange Model (AIXM) \u2013 Specification \n\u2022\tFormat: XML/GML",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Digital Vertical Obstruction File (DVOF)\n\u2022\tFormat: TFADS-O",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Digital Aeronautical Flight Information File (DAFIF)\n\u2022\tFormat: DAFIF",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Digital Aeronautical Flight Information File (DAFIF)\n\u2022\tFormat: DAFIF",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-260 International Program for Human Geography (IPHG) Data Product Specification (DPS) \u2013 Cultural Context and Statistical Data (DGIF 2.0)\n\u2022\tFormat: GML",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-253 Digital TOpographic eXchange (DTOX) (DGIF 3.0)\n\u2022\tFormat: GML",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Additional Military Layers (AML) \u2013 Product Specification\nAML PS 3.0 \nAML Feature and Attribute Catalogue 3.0.1",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Additional Military Layers (AML) \u2013 Product Specification\n- Contour Line Bathymetry (AML-CLB)\n- Environment Seabed & Beach (AML-ESB)   \n- Large Bottom Objects (AML-LBO)\n- Small Bottom Objects (AML-SBO)\n- Maritime Foundation and Facilities (AML-MFF)\n- Routes Areas and Limits (AML-RAL)\n\u2022\tFormat: S-57",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Additional Military Layers (AML) \u2013 Product Specification\n- Contour Line Bathymetry (AML-CLB)\n- Environment Seabed & Beach (AML-ESB)   \n- Large Bottom Objects (AML-LBO)\n- Small Bottom Objects (AML-SBO)\n- Maritime Foundation and Facilities (AML-MFF)\n- Routes Areas and Limits (AML-RAL)\n\u2022\tFormat: S-57",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Additional Military Layers (AML)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "International Civil Aviation Organisation (ICAO) Meteorological Information Exchange Model (IWXXM)\n\u2022\tFormat: XML/GML",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Electronic Navigational Chart (ENC)\n\u2022\tFormat: S-57",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "S-101 Electronic Navigational Chart (ENC)  [S-100 Product Specification]",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "S-102 Bathymetric Surface [S-100 Product Specification]",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "S-104 Water Level Information for Surface Navigation [S-100 Product Specification]",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "S-111 Surface Currents [S-100 Product Specification]",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "MIL-T-89101 Tactical Pilotage Chart (TPC) \n\u2022\tFormat: Analogue",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-256-1 Defence City Map\n\u2022\tFormat: Analogue",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-258 Defence Joint Operations Graphic (Air)\n\u2022\tFormat: Analogue",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-252 Defence Topographic Map for 1:50,000 Scale (DTM50)\n\u2022\tFormat: Analogue",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "MIL-0-89102 Operational Navigation Chart (ONC)\n\u2022\tFormat: Analogue",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "MIL-J-89100 Joint Operations \nGraphic Series 1501A (Air) and \n1501 (ground)  \n\u2022\tFormat: Analogue",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "AGeoP-10 (STANAG 7169) \u2013NATO Specifications for Image Maps\n\u2022\tFormat: Analogue",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "AGeoP-23 (STANAG 7164) \u2013Special Aeronautical Charts (SAC) \n\u2022\tFormat: Analogue, ASRP, CADRG, GeoTIFF, (GML)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "MGCP Topographic Map (MTM) 1:50 000\n\u2022\tFormat: Analogue",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-252 Defence Topographic Map for 1:50 000 Data Product Specification\n\u2022\tFormat: Analogue",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "ABCAZ Ground War Fighter\nGeospatial Data Model (GGDM)",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "ABCAZ Ground War Fighter\nGeospatial Data Model (GGDM)",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "AGeoP-28 (STANAG 6560) - NATO Geospatial Product Identification and Standards Series Designation (SSD) for Land Maps, Aeronautical Charts, and Image Maps ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "AGeoP 25.1 (STANAG 3689) \u2013 Place Name Spelling on Maps and Charts. \n\u2022\tIncluding Transliteration of Maps, Charts and Digital Geographic Information AGeoP-25.1)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "AGeoP-16 (STANAG 3412) \u2013 Aeronautical Information on Aeronautical Charts",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-131 Printing Colours for Defence Geospatial Products",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 2530 Ed.1 Aeronautical Foundation Data (AFD) \u2013 \n\u2022\tStandard: DAFIF",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 7170 - Additional Military Layers (AML) \u2013 Digital Geospatial Data Products\n\u2022\tStandard: AGeoP-19",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 7169 \u2013NATO Specifications for Image Maps\n\u2022\tStandard: AGeoP-10",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 7164 \u2013Special Aeronautical Charts (SAC) \n\u2022\tStandard: AGeoP-23",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 2592 \u2013 NATO Geospatial Information Framework [NGIF 3.0]\n\u2022\tStandard: DTOX",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "ABCANZ 2075 \u2013 Coalition Theatre Geospatial Database \n\u2022\tStandard: GGDM",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "AGeoP-19 \u2013 Additional Military Layers (AML) \u2013 Digital Geospatial Data Products \n\u2022\tStandard: AML",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "UK Defence Policy for the use of Open Street Map Data",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "MIL-PRF-89020B Digital Terrain Elevation Data (DTED) Exchange Format",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "NGA 89041A Controlled Image Base (CIB)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-254 Defence Raster Product Implementation Profile\n\u2022\tFormat: GeoTIFF, GMLJP2, NSIF/NITF, (GeoPDF)",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-255 Defence Ortho imagery Product (DOP) Implementation Profile",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG 250 Defence Gridded Elevation Data (DGED)     \n\u2022\tFormat: GeoTIFF, GMLJP2, NSIF/NITF",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG 250 Defence Gridded Elevation Data (DGED)  \n\u2022\tFormat: GeoTIFF, GMLJP2, NSIF/NITF",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-116 Elevation Surface Model (ESM)\n\u2022\tDGIWG-116-1 UML Model\n\u2022\tDGIWG 116-2 GML Application Schema\n\u2022\tDGIWG-116-3 Encoding rules; Core, GeoTIFF, GMLJP2, NSIF/NITF",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Additional Military Layers - Atmospheric & Meteorological Climatology (AML-AMC)  \n\u2022\tFormat: GRIB",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Additional Military Layers \u2013 Integrated Water Column (AMLIWC) \n\u2022\tFormat: Net-CDF",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Additional Military Layers - Gridded Sediment Environment \nSeabed and Beach (AML - GSESB) \n\u2022\tFormat: Net-CDF",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 6566 / AGeoP-30 Defence Gridded Elevation Data (DGED)\n\u2022\tEndorsed Standard: DGIWG-250 DGED",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 3809 Digital Terrain Elevation Data (DTED) Exchange Format\n\u2022\tStandard: MIL-PRF-89020B (DTED)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 7099 Controlled Image Base (CIB)\n\u2022\tStandard: NGA 89041A (CIB)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 3675, Symbols for Land Maps, Aeronautical Charts, and Special Naval Chart",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-109 Portrayal Standard for Multinational Geospatial Co-Production Program (MGCP)",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG Symbol Register",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "World Meteorological Organisation 485 Manual",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "International Civil Aviation Organisation (ICAO) Annex 3 ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "International Civil Aviation Organisation (ICAO) Annex 4",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "AML Portrayal Specification",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "IHO GI Registry",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "AGeoP-15 (STANAG 3833) - Symbols for Land Forces Training Area Maps ",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-128 Implementation Guide for General Symbology Styles and Encoding",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-130 Web Display Symbology\n\u2022\tDGIWG 130 SD1 Web Symbology User Guide",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "NATO Allied Publication APP-6E, Military Symbols for Land Systems",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Civil Protection Common Map Symbology",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-131 Printing Colours for Defence Geospatial Products",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "AGeoP-25 (STANAG 3689) \u2013Place Name Spelling on Maps and Charts. \n\u2022\tIncluding Transliteration of Maps, Charts and Digital Geographic Information AGeoP-25.1",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "05-077r4 OpenGIS Symbology Encoding (SE) Implementation Specification",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 3675, Symbols for Land Maps, Aeronautical Charts, and Special Naval Chart\n\u2022\tStandard: DGIWG Symbol Registry, IHO Registry",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "ABCANZ Digital Web Map Portrayal Standard\n\u2022\tStandard: DGIWG Registry ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-112 Defence Profile of OGC  Web Map Service 1.3 (WMS)  ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-122 Defence Profile of OGC  Web Feature Service 2.0 (WFS)  ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-119 Defence Profile of OGC Web Coverage Service (WCS)  ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-124 Defence Profile of OGC Web Map Tile Service 2.0 (WMTS) ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "Web Services Context (OWS)  ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "OGC 05-007r7  Web Processing Service (WPS) ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "AGeoP-26 - NATO Defence Geospatial Web Services",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "DGIWG-125 Defence Profile of OGC Catalogue Service for the Web (CSW) 2.0 (ebRIM) ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "OGC 02-070 Styled Layer Descriptor (SLD)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "OGC 17-002r1GeoRSS Encoding",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "OGC 19-086r6 Environmental Data Retrieval API (EDR)",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "OGC Web Map Service 1.3 (WMS)  ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "OGC Web Map Tile Service 1.0 (WMTS)",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "OGC Web Feature Service 2.0 (WFS)  ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "OGC Web Coverage Service (WCS)  ",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "MoD Web Service Caching Policy",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "UK Defence Geospatial Policy Note: Web Services and Projections",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 6523 \u2013 Defence Geospatial Web Services\n\u2022\tStandards: AGeoP-26",
+    "providers": {},
+    "domain": "Y",
+    "years_active": {}
+  },
+  {
+    "standard_name": "ABCANZ 2126 Geospatial Web Services\n\u2022\tStandards: DGIWG 112, 122, 119, 124, 125",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 4545\nNATO Secondary Imagery Format JBP-2021.2",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 4559 \nNATO ISR Library Interfaces and Services\nAEDP 17 - NATO Standard Library Interface\nAEDP 18 - NATO Standard ISR Streaming Services",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 4575\nNATO Advanced Data Storage Interface (NADSI) AEDP-06",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 4607\nNATO Ground Moving Target Indicator (GMTI) Format AEDP-07",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 4609\nNATO Digital Motion Imagery Standard MISP-2019.1",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 4676\nNATO ISR Tracking Standard",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 7023\nAir Reconnaissance Primary Imagery Data Standard AEDP-7023",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  },
+  {
+    "standard_name": "STANAG 7194\nNATO Imagery Interoperability Rating Scale (NIIRS)",
+    "providers": {},
+    "domain": "\u00d7",
+    "years_active": {}
+  }
+]
