@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ASG Document Registry (Mock)</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    input { padding: 8px; width: 300px; margin-bottom: 20px; }
+    .entry { border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px; }
+    .providers span { margin-right: 10px; }
+  </style>
+</head>
+<body>
+  <h1>ASG Document Registry (Mock)</h1>
+  <input type="text" id="search" placeholder="Search by Standard Name...">
+  <div id="results"></div>
+
+  <script>
+    let data = [];
+
+    // Fetch data from the exported JSON file
+    fetch('ASG_Document_Registry_Mock.json')
+      .then(response => response.json())
+      .then(json => {
+        data = json;
+        renderResults(data);
+      });
+
+    // Filter function
+    document.getElementById('search').addEventListener('input', function() {
+      const query = this.value.toLowerCase();
+      const filtered = data.filter(entry => entry.standard_name.toLowerCase().includes(query));
+      renderResults(filtered);
+    });
+
+    // Render entries
+    function renderResults(entries) {
+      const container = document.getElementById('results');
+      container.innerHTML = '';
+
+      if (entries.length === 0) {
+        container.innerHTML = '<p>No results found.</p>';
+        return;
+      }
+
+      entries.forEach(entry => {
+        const div = document.createElement('div');
+        div.className = 'entry';
+        div.innerHTML = `
+          <h3>${entry.standard_name}</h3>
+          <p><strong>Domain:</strong> ${entry.domain || 'N/A'}</p>
+          <div class="providers">
+            <strong>Providers:</strong>
+            ${Object.entries(entry.providers).map(([k, v]) => `<span>${k}: ${v || '-'}</span>`).join('')}
+          </div>
+        `;
+        container.appendChild(div);
+      });
+    }
+  </script>
+</body>
+</html>
